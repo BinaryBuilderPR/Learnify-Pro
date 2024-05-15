@@ -50,5 +50,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements 🙏
 - React.js
-- Node.js
-
+- Tailwindcss
